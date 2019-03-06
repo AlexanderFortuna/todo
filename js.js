@@ -26,7 +26,7 @@ window.onload = function () {
 				out += "<input type='checkbox' checked>";
 			}
 			else {
-				out +=<input type='checkbox' >";
+				out +="<input type='checkbox' >";
 			}
 			out += todoList[key].todo + "<br>";
 
